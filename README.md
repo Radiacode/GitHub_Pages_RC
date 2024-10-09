@@ -8,7 +8,7 @@ Design elements, controls and indications controls and indications personal radi
 
 
 
-<figure><img src=".gitbook/assets/about6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./about6.png" alt=""><figcaption></figcaption></figure>
 
 1. YZ test text string
 2. Location of the radiation sensor, digital thermometer, and instrument orientation sensor.
