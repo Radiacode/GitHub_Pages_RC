@@ -17,8 +17,6 @@ and manage personal radiation detector. A detailed description of the program in
 
 Connection to an Android smartphone is also possible via USB OTG. When connected to a computer or smartphone, the accumulated data are transferred to an external device, and the newly received data are transferred there immediately without being stored in the built-in memory.
 
-{% hint style="info" %}
 &#x20;Use the OTG Adapter (USB\_Type-C)
-{% endhint %}
 
 
