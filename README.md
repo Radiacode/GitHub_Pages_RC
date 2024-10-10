@@ -1,6 +1,6 @@
 # Device design
 
-Design elements, controls and indications controls and indications personal radiation detector Radiacode-10X series
+Design  elements, controls and indications controls and indications personal radiation detector Radiacode-10X series
 
 Внутренняя ссылка [Before use.md](<Radiacode-10X series/Before use.md> "mention")
 
