@@ -1,8 +1,6 @@
 # Before use
 
-{% hint style="danger" %}
 Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.
-{% endhint %}
 
 
 
