@@ -1,0 +1,1611 @@
+{
+  "vaultName": "radiacode",
+  "lastExport": 1728633887316,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "EN/Manual 10X_EN/Device settings/0 Settings.md",
+    "EN/Manual 10X_EN/Device settings/1 Measurement units.md",
+    "EN/Manual 10X_EN/Device settings/2 Count rate - alarm levels.md",
+    "EN/Manual 10X_EN/Device settings/3 Dose rate - alarm levels.md",
+    "EN/Manual 10X_EN/Device settings/4 Dose - alarm levels.md",
+    "EN/Manual 10X_EN/Device settings/5 Screen settings.md",
+    "EN/Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.md",
+    "EN/Manual 10X_EN/Device settings/7 Bluetooth on_off.md",
+    "EN/Manual 10X_EN/Device settings/8 Language selection.md",
+    "EN/Manual 10X_EN/Device settings/9 Time settings.md",
+    "EN/Manual 10X_EN/Device settings/10 Factory settings.md",
+    "EN/Manual 10X_EN/Images/_QRarc101_cut.png",
+    "EN/Manual 10X_EN/Images/a1-17-40x40-16.png",
+    "EN/Manual 10X_EN/Images/a1-17-40x40-48.png",
+    "EN/Manual 10X_EN/Images/about1.png",
+    "EN/Manual 10X_EN/Images/about2.png",
+    "EN/Manual 10X_EN/Images/about3.png",
+    "EN/Manual 10X_EN/Images/about4.jpg",
+    "EN/Manual 10X_EN/Images/about6.png",
+    "EN/Manual 10X_EN/Images/alarm_screen.png",
+    "EN/Manual 10X_EN/Images/Alarms_all.png",
+    "EN/Manual 10X_EN/Images/Android app user manual.png",
+    "EN/Manual 10X_EN/Images/arrow.png",
+    "EN/Manual 10X_EN/Images/battery_charging_sym.png",
+    "EN/Manual 10X_EN/Images/battery_empty_sym.png",
+    "EN/Manual 10X_EN/Images/battery13_sym.png",
+    "EN/Manual 10X_EN/Images/battery23_sym.png",
+    "EN/Manual 10X_EN/Images/battery33_sym.png",
+    "EN/Manual 10X_EN/Images/bluetooth.png",
+    "EN/Manual 10X_EN/Images/bt_sym.png",
+    "EN/Manual 10X_EN/Images/cr_alarm_1.png",
+    "EN/Manual 10X_EN/Images/cr_alarm_2.png",
+    "EN/Manual 10X_EN/Images/cr_alarm_3.png",
+    "EN/Manual 10X_EN/Images/device-info.png",
+    "EN/Manual 10X_EN/Images/display-units.png",
+    "EN/Manual 10X_EN/Images/dose.png",
+    "EN/Manual 10X_EN/Images/dose_alarm_1.png",
+    "EN/Manual 10X_EN/Images/dose_alarm_2.png",
+    "EN/Manual 10X_EN/Images/dose_alarm_3.png",
+    "EN/Manual 10X_EN/Images/dose_rate_sym.png",
+    "EN/Manual 10X_EN/Images/dose_sym.png",
+    "EN/Manual 10X_EN/Images/dose-int.png",
+    "EN/Manual 10X_EN/Images/dose-rate.png",
+    "EN/Manual 10X_EN/Images/estimation_sound_on_f.png",
+    "EN/Manual 10X_EN/Images/estimation_unlocked_f.png",
+    "EN/Manual 10X_EN/Images/factory-settings.png",
+    "EN/Manual 10X_EN/Images/favicon-32.png",
+    "EN/Manual 10X_EN/Images/indicator_levels_sym.png",
+    "EN/Manual 10X_EN/Images/indicator_sym.png",
+    "EN/Manual 10X_EN/Images/info_sym.png",
+    "EN/Manual 10X_EN/Images/key_lock_sym.png",
+    "EN/Manual 10X_EN/Images/language.png",
+    "EN/Manual 10X_EN/Images/lin_sym.png",
+    "EN/Manual 10X_EN/Images/log_sym.png",
+    "EN/Manual 10X_EN/Images/lookup_sym.png",
+    "EN/Manual 10X_EN/Images/md_alarm_1.png",
+    "EN/Manual 10X_EN/Images/md_alarm_2.png",
+    "EN/Manual 10X_EN/Images/md_alarm_3.png",
+    "EN/Manual 10X_EN/Images/measurement-units.png",
+    "EN/Manual 10X_EN/Images/menu_device_info_selected_f.png",
+    "EN/Manual 10X_EN/Images/menu_monitor_selected_f.png",
+    "EN/Manual 10X_EN/Images/menu_onoff_selected_f.png",
+    "EN/Manual 10X_EN/Images/menu_settings_selected_f.png",
+    "EN/Manual 10X_EN/Images/monitor-int.png",
+    "EN/Manual 10X_EN/Images/onoff_sym.png",
+    "EN/Manual 10X_EN/Images/power_ext_sym.png",
+    "EN/Manual 10X_EN/Images/presentation_dose_f.png",
+    "EN/Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png",
+    "EN/Manual 10X_EN/Images/presentation_dose_rate_f.png",
+    "EN/Manual 10X_EN/Images/presentation_scan_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png",
+    "EN/Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png",
+    "EN/Manual 10X_EN/Images/QR spce.radiacode.com.png",
+    "EN/Manual 10X_EN/Images/qr-code_iOs.png",
+    "EN/Manual 10X_EN/Images/radiacode-logo2-black.png",
+    "EN/Manual 10X_EN/Images/RC-101-Android.png",
+    "EN/Manual 10X_EN/Images/RC101_common_view.png",
+    "EN/Manual 10X_EN/Images/RC101_common_view_cutted.png",
+    "EN/Manual 10X_EN/Images/RC101_is_off_f.png",
+    "EN/Manual 10X_EN/Images/RC101_keys_L_pointed.png",
+    "EN/Manual 10X_EN/Images/RC101_keys_R_pointed.png",
+    "EN/Manual 10X_EN/Images/RC101_keys_RL_pointed.png",
+    "EN/Manual 10X_EN/Images/RC101_view.png",
+    "EN/Manual 10X_EN/Images/RC101vs103.jpg",
+    "EN/Manual 10X_EN/Images/s.png",
+    "EN/Manual 10X_EN/Images/screen.png",
+    "EN/Manual 10X_EN/Images/search-int.png",
+    "EN/Manual 10X_EN/Images/setting_sym.png",
+    "EN/Manual 10X_EN/Images/settings_bt_selected_off_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_return_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_selected_f 1.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_device_info_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_device_reset_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_auto_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_return_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_backlight_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_return_f.png",
+    "EN/Manual 10X_EN/Images/settings_display_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_return_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_lang_selected_eng_f.png",
+    "EN/Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png",
+    "EN/Manual 10X_EN/Images/settings_outofmenu_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_return_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_power_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png",
+    "EN/Manual 10X_EN/Images/settings_signals_mode_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_time_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png",
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_f.png",
+    "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png",
+    "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png",
+    "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png",
+    "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png",
+    "EN/Manual 10X_EN/Images/signals.png",
+    "EN/Manual 10X_EN/Images/sound_off_sym.png",
+    "EN/Manual 10X_EN/Images/sound_on_sym.png",
+    "EN/Manual 10X_EN/Images/spectrum_sym.png",
+    "EN/Manual 10X_EN/Images/spectrum-int-duble.png",
+    "EN/Manual 10X_EN/Images/status_base.svg",
+    "EN/Manual 10X_EN/Images/status_dose.png",
+    "EN/Manual 10X_EN/Images/status_dose_all_signs.png",
+    "EN/Manual 10X_EN/Images/status_monitor_all_signs.png",
+    "EN/Manual 10X_EN/Images/status_scan.png",
+    "EN/Manual 10X_EN/Images/status_scan_all_signs.png",
+    "EN/Manual 10X_EN/Images/status_spectrum.png",
+    "EN/Manual 10X_EN/Images/time.png",
+    "EN/Manual 10X_EN/Images/usb_sym.png",
+    "EN/Manual 10X_EN/Info and warnings/Battery charging.md",
+    "EN/Manual 10X_EN/Info and warnings/Before use.md",
+    "EN/Manual 10X_EN/Info and warnings/Developer contacts.md",
+    "EN/Manual 10X_EN/Info and warnings/Device info.md",
+    "EN/Manual 10X_EN/Info and warnings/Display.md",
+    "EN/Manual 10X_EN/Info and warnings/Firmware update.md",
+    "EN/Manual 10X_EN/Info and warnings/Icons.md",
+    "EN/Manual 10X_EN/Info and warnings/Safety precautions and warnings.md",
+    "EN/Manual 10X_EN/Info and warnings/Stand-alone use of the device.md",
+    "EN/Manual 10X_EN/Radiacode-10X series/Buttons.md",
+    "EN/Manual 10X_EN/Radiacode-10X series/Device design.md",
+    "EN/Manual 10X_EN/Radiacode-10X series/Smartphone Applications.md",
+    "EN/Manual 10X_EN/Radiacode-10X series/Technical specifications.md",
+    "EN/Manual 10X_EN/Radiacode-10X series/Working with a PC.md",
+    "EN/Manual 10X_EN/Alarms.md",
+    "EN/Manual 10X_EN/Basics.md",
+    "EN/Manual 10X_EN/Display Modes.md",
+    "EN/Manual 10X_EN/FAQ.md",
+    "EN/Manual 10X_EN/Fast Control.md",
+    "EN/Manual 10X_EN/image-zoom.css",
+    "EN/Manual 10X_EN/Indication sound, vibration, light.md",
+    "EN/Manual 10X_EN/publish.css",
+    "EN/Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf",
+    "EN/Manual 10X_EN/RC-101-Android.psd",
+    "EN/Manual 10X_EN/Troubleshooting.md",
+    "EN/Manual 10X_EN/Turn ON and OFF.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "EN/Manual 10X_EN/Device settings/0 Settings.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2402,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/0 Settings.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/1 Measurement units.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2913,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/1 Measurement units.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/2 Count rate - alarm levels.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4682,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/2 Count rate - alarm levels.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/3 Dose rate - alarm levels.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4752,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/3 Dose rate - alarm levels.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/4 Dose - alarm levels.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4545,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/4 Dose - alarm levels.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/5 Screen settings.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4915,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/5 Screen settings.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 10650,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/7 Bluetooth on_off.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1413,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/7 Bluetooth on_off.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/8 Language selection.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1394,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/8 Language selection.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/9 Time settings.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2535,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/9 Time settings.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Device settings/10 Factory settings.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2354,
+      "exportedPath": "EN/Manual 10X_EN/Device settings/10 Factory settings.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/_QRarc101_cut.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1284,
+      "exportedPath": "EN/Manual 10X_EN/Images/_QRarc101_cut.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/a1-17-40x40-16.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 652,
+      "exportedPath": "EN/Manual 10X_EN/Images/a1-17-40x40-16.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/a1-17-40x40-48.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 847,
+      "exportedPath": "EN/Manual 10X_EN/Images/a1-17-40x40-48.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/about1.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 210034,
+      "exportedPath": "EN/Manual 10X_EN/Images/about1.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/about2.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 352461,
+      "exportedPath": "EN/Manual 10X_EN/Images/about2.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/about3.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2587,
+      "exportedPath": "EN/Manual 10X_EN/Images/about3.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/about4.jpg": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 31960,
+      "exportedPath": "EN/Manual 10X_EN/Images/about4.jpg",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/about6.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1178821,
+      "exportedPath": "EN/Manual 10X_EN/Images/about6.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/alarm_screen.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3169,
+      "exportedPath": "EN/Manual 10X_EN/Images/alarm_screen.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/Alarms_all.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 5106,
+      "exportedPath": "EN/Manual 10X_EN/Images/Alarms_all.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/Android app user manual.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 262636,
+      "exportedPath": "EN/Manual 10X_EN/Images/Android app user manual.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/arrow.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1136,
+      "exportedPath": "EN/Manual 10X_EN/Images/arrow.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/battery_charging_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 279,
+      "exportedPath": "EN/Manual 10X_EN/Images/battery_charging_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/battery_empty_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 264,
+      "exportedPath": "EN/Manual 10X_EN/Images/battery_empty_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/battery13_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 255,
+      "exportedPath": "EN/Manual 10X_EN/Images/battery13_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/battery23_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 265,
+      "exportedPath": "EN/Manual 10X_EN/Images/battery23_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/battery33_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 263,
+      "exportedPath": "EN/Manual 10X_EN/Images/battery33_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/bluetooth.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 10590,
+      "exportedPath": "EN/Manual 10X_EN/Images/bluetooth.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/bt_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 253,
+      "exportedPath": "EN/Manual 10X_EN/Images/bt_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/cr_alarm_1.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 267,
+      "exportedPath": "EN/Manual 10X_EN/Images/cr_alarm_1.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/cr_alarm_2.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 269,
+      "exportedPath": "EN/Manual 10X_EN/Images/cr_alarm_2.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/cr_alarm_3.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 283,
+      "exportedPath": "EN/Manual 10X_EN/Images/cr_alarm_3.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/device-info.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 18039,
+      "exportedPath": "EN/Manual 10X_EN/Images/device-info.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/display-units.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 14680,
+      "exportedPath": "EN/Manual 10X_EN/Images/display-units.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 15293,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose_alarm_1.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 256,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose_alarm_1.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose_alarm_2.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 264,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose_alarm_2.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose_alarm_3.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 271,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose_alarm_3.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose_rate_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 357,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose_rate_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 265,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose-int.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 13701,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose-int.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/dose-rate.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 13815,
+      "exportedPath": "EN/Manual 10X_EN/Images/dose-rate.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/estimation_sound_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3077,
+      "exportedPath": "EN/Manual 10X_EN/Images/estimation_sound_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/estimation_unlocked_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3089,
+      "exportedPath": "EN/Manual 10X_EN/Images/estimation_unlocked_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/factory-settings.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 10602,
+      "exportedPath": "EN/Manual 10X_EN/Images/factory-settings.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/favicon-32.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 6160,
+      "exportedPath": "EN/Manual 10X_EN/Images/favicon-32.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/indicator_levels_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1889,
+      "exportedPath": "EN/Manual 10X_EN/Images/indicator_levels_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/indicator_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 440,
+      "exportedPath": "EN/Manual 10X_EN/Images/indicator_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/info_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 225,
+      "exportedPath": "EN/Manual 10X_EN/Images/info_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/key_lock_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 232,
+      "exportedPath": "EN/Manual 10X_EN/Images/key_lock_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/language.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 12573,
+      "exportedPath": "EN/Manual 10X_EN/Images/language.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/lin_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 218,
+      "exportedPath": "EN/Manual 10X_EN/Images/lin_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/log_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 252,
+      "exportedPath": "EN/Manual 10X_EN/Images/log_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/lookup_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 328,
+      "exportedPath": "EN/Manual 10X_EN/Images/lookup_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/md_alarm_1.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 276,
+      "exportedPath": "EN/Manual 10X_EN/Images/md_alarm_1.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/md_alarm_2.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 285,
+      "exportedPath": "EN/Manual 10X_EN/Images/md_alarm_2.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/md_alarm_3.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 300,
+      "exportedPath": "EN/Manual 10X_EN/Images/md_alarm_3.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/measurement-units.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 11484,
+      "exportedPath": "EN/Manual 10X_EN/Images/measurement-units.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/menu_device_info_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3198,
+      "exportedPath": "EN/Manual 10X_EN/Images/menu_device_info_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/menu_monitor_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3124,
+      "exportedPath": "EN/Manual 10X_EN/Images/menu_monitor_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/menu_onoff_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3104,
+      "exportedPath": "EN/Manual 10X_EN/Images/menu_onoff_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/menu_settings_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3159,
+      "exportedPath": "EN/Manual 10X_EN/Images/menu_settings_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/monitor-int.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 17828,
+      "exportedPath": "EN/Manual 10X_EN/Images/monitor-int.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/onoff_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 334,
+      "exportedPath": "EN/Manual 10X_EN/Images/onoff_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/power_ext_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 233,
+      "exportedPath": "EN/Manual 10X_EN/Images/power_ext_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_dose_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2989,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_dose_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3156,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_dose_rate_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3089,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_dose_rate_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_scan_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2822,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_scan_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2713,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2693,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2649,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2654,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2831,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2765,
+      "exportedPath": "EN/Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/QR spce.radiacode.com.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1788,
+      "exportedPath": "EN/Manual 10X_EN/Images/QR spce.radiacode.com.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/qr-code_iOs.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 9513,
+      "exportedPath": "EN/Manual 10X_EN/Images/qr-code_iOs.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/radiacode-logo2-black.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2502,
+      "exportedPath": "EN/Manual 10X_EN/Images/radiacode-logo2-black.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC-101-Android.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 262636,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC-101-Android.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_common_view.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 70967,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_common_view.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_common_view_cutted.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 69606,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_common_view_cutted.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_is_off_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1982,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_is_off_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_keys_L_pointed.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 16651,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_keys_L_pointed.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_keys_R_pointed.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 16892,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_keys_R_pointed.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_keys_RL_pointed.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 17616,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_keys_RL_pointed.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101_view.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 323449,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101_view.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/RC101vs103.jpg": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 321547,
+      "exportedPath": "EN/Manual 10X_EN/Images/RC101vs103.jpg",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/s.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 514,
+      "exportedPath": "EN/Manual 10X_EN/Images/s.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/screen.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 9990,
+      "exportedPath": "EN/Manual 10X_EN/Images/screen.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/search-int.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 10830,
+      "exportedPath": "EN/Manual 10X_EN/Images/search-int.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/setting_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 378,
+      "exportedPath": "EN/Manual 10X_EN/Images/setting_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_bt_selected_off_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2663,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_bt_selected_off_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_return_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2855,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_return_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2848,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_selected_f 1.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2848,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_selected_f 1.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2872,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2859,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2839,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2826,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2860,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2840,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2824,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2848,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2818,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_device_info_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2987,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_device_info_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2924,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2922,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_device_reset_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2667,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_device_reset_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_auto_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2807,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_auto_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2758,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2779,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2773,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_return_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2710,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_return_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_backlight_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2695,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_backlight_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2662,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_return_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2696,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_return_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_display_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2508,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_display_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2703,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2942,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2815,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2951,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2857,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2842,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2852,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2948,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2888,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2868,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2834,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2867,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_return_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2762,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_return_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2605,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2897,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2758,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2745,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2819,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2900,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2788,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2775,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2822,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_lang_selected_eng_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2779,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_lang_selected_eng_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2811,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_outofmenu_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2810,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_outofmenu_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_return_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2644,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_return_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2517,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2552,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2596,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2616,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2611,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2694,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2651,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2593,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_power_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2680,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_power_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2510,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2590,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2584,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2682,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2567,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2591,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2603,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2619,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2602,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_signals_mode_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2801,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_signals_mode_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_time_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2684,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_time_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2738,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2710,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_time_setting_dialog_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2730,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_time_setting_dialog_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2713,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2710,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2707,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2725,
+      "exportedPath": "EN/Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/signals.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 9597,
+      "exportedPath": "EN/Manual 10X_EN/Images/signals.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/sound_off_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 275,
+      "exportedPath": "EN/Manual 10X_EN/Images/sound_off_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/sound_on_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 264,
+      "exportedPath": "EN/Manual 10X_EN/Images/sound_on_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/spectrum_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 312,
+      "exportedPath": "EN/Manual 10X_EN/Images/spectrum_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/spectrum-int-duble.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 19914,
+      "exportedPath": "EN/Manual 10X_EN/Images/spectrum-int-duble.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_base.svg": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4641,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_base.svg",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_dose.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 324,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_dose.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_dose_all_signs.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 505,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_dose_all_signs.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_monitor_all_signs.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 482,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_monitor_all_signs.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_scan.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 343,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_scan.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_scan_all_signs.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 519,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_scan_all_signs.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/status_spectrum.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 496,
+      "exportedPath": "EN/Manual 10X_EN/Images/status_spectrum.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/time.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 9516,
+      "exportedPath": "EN/Manual 10X_EN/Images/time.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Images/usb_sym.png": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 260,
+      "exportedPath": "EN/Manual 10X_EN/Images/usb_sym.png",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Battery charging.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1261,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Battery charging.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Before use.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 988,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Before use.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Developer contacts.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 167,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Developer contacts.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Device info.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 281,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Device info.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Display.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1464,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Display.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Firmware update.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2249,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Firmware update.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Icons.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 5201,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Icons.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Safety precautions and warnings.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 3663,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Safety precautions and warnings.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Info and warnings/Stand-alone use of the device.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 894,
+      "exportedPath": "EN/Manual 10X_EN/Info and warnings/Stand-alone use of the device.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Radiacode-10X series/Buttons.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 6417,
+      "exportedPath": "EN/Manual 10X_EN/Radiacode-10X series/Buttons.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Radiacode-10X series/Device design.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1376,
+      "exportedPath": "EN/Manual 10X_EN/Radiacode-10X series/Device design.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Radiacode-10X series/Smartphone Applications.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1088,
+      "exportedPath": "EN/Manual 10X_EN/Radiacode-10X series/Smartphone Applications.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Radiacode-10X series/Technical specifications.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 6585,
+      "exportedPath": "EN/Manual 10X_EN/Radiacode-10X series/Technical specifications.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Radiacode-10X series/Working with a PC.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1063,
+      "exportedPath": "EN/Manual 10X_EN/Radiacode-10X series/Working with a PC.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Alarms.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 5832,
+      "exportedPath": "EN/Manual 10X_EN/Alarms.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Basics.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 7807,
+      "exportedPath": "EN/Manual 10X_EN/Basics.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Display Modes.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 7369,
+      "exportedPath": "EN/Manual 10X_EN/Display Modes.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/FAQ.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2069,
+      "exportedPath": "EN/Manual 10X_EN/FAQ.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Fast Control.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 0,
+      "exportedPath": "EN/Manual 10X_EN/Fast Control.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/image-zoom.css": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1719,
+      "exportedPath": "EN/Manual 10X_EN/image-zoom.css",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Indication sound, vibration, light.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 1233,
+      "exportedPath": "EN/Manual 10X_EN/Indication sound, vibration, light.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/publish.css": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 58945,
+      "exportedPath": "EN/Manual 10X_EN/publish.css",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 5915103,
+      "exportedPath": "EN/Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/RC-101-Android.psd": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 2189046,
+      "exportedPath": "EN/Manual 10X_EN/RC-101-Android.psd",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Troubleshooting.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4989,
+      "exportedPath": "EN/Manual 10X_EN/Troubleshooting.html",
+      "dependencies": []
+    },
+    "EN/Manual 10X_EN/Turn ON and OFF.md": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 4905,
+      "exportedPath": "EN/Manual 10X_EN/Turn ON and OFF.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728633887316,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
