@@ -1,0 +1,3053 @@
+{
+  "vaultName": "radiacode",
+  "lastExport": 1729182412458,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": true,
+  "files": [
+    "Android_EN/Images/_apply.png",
+    "Android_EN/Images/_calib.png",
+    "Android_EN/Images/_calib_table.png",
+    "Android_EN/Images/_clicks.png",
+    "Android_EN/Images/_countrate.png",
+    "Android_EN/Images/_create_folder.png",
+    "Android_EN/Images/_devicecontrol.png",
+    "Android_EN/Images/_dose.png",
+    "Android_EN/Images/_doserate.png",
+    "Android_EN/Images/_doseratebar.png",
+    "Android_EN/Images/_hardness.png",
+    "Android_EN/Images/_lib_picture.png",
+    "Android_EN/Images/_liveauto.png",
+    "Android_EN/Images/_livesettings.png",
+    "Android_EN/Images/_markerinfo.png",
+    "Android_EN/Images/_move_here.png",
+    "Android_EN/Images/_move_to_folder.png",
+    "Android_EN/Images/_navbuttons0.png",
+    "Android_EN/Images/_navbuttons1.png",
+    "Android_EN/Images/_navbuttons2.png",
+    "Android_EN/Images/_navmenu.png",
+    "Android_EN/Images/_ok.png",
+    "Android_EN/Images/_pic_on_graph.png",
+    "Android_EN/Images/_picsonmap.png",
+    "Android_EN/Images/_pseudotrack.png",
+    "Android_EN/Images/_raredata.png",
+    "Android_EN/Images/_recording.png",
+    "Android_EN/Images/_savepseudotrack.png",
+    "Android_EN/Images/_scale.png",
+    "Android_EN/Images/_soundoff.png",
+    "Android_EN/Images/_spg_mark.png",
+    "Android_EN/Images/_spg_more.png",
+    "Android_EN/Images/_spg_zoom.png",
+    "Android_EN/Images/_tabcontrol.png",
+    "Android_EN/Images/_tabcontrolicons.png",
+    "Android_EN/Images/_trk_options.png",
+    "Android_EN/Images/100ml.png",
+    "Android_EN/Images/activity.png",
+    "Android_EN/Images/avrcp.png",
+    "Android_EN/Images/bt_on.png",
+    "Android_EN/Images/camera.png",
+    "Android_EN/Images/cameraresize.png",
+    "Android_EN/Images/cicon_loadindex_ani.gif",
+    "Android_EN/Images/container.png",
+    "Android_EN/Images/devices.png",
+    "Android_EN/Images/ic_a.png",
+    "Android_EN/Images/ic_auto_auto.png",
+    "Android_EN/Images/ic_auto_brightness.png",
+    "Android_EN/Images/ic_auto_full.png",
+    "Android_EN/Images/ic_auto_off.png",
+    "Android_EN/Images/ic_auto_visible.png",
+    "Android_EN/Images/ic_cur_location.png",
+    "Android_EN/Images/ic_event.png",
+    "Android_EN/Images/ic_flash_auto.png",
+    "Android_EN/Images/ic_flip_camera.png",
+    "Android_EN/Images/ic_import.png",
+    "Android_EN/Images/ic_library.png",
+    "Android_EN/Images/ic_live_settings.png",
+    "Android_EN/Images/ic_map_count_rate.png",
+    "Android_EN/Images/ic_map_dose_rate.png",
+    "Android_EN/Images/ic_more_horiz.png",
+    "Android_EN/Images/ic_more_vert.png",
+    "Android_EN/Images/ic_next.png",
+    "Android_EN/Images/ic_prev.png",
+    "Android_EN/Images/ic_quadred.png",
+    "Android_EN/Images/ic_rare.png",
+    "Android_EN/Images/ic_resize.png",
+    "Android_EN/Images/ic_robot.png",
+    "Android_EN/Images/ic_roundgray_wb.png",
+    "Android_EN/Images/ic_route.png",
+    "Android_EN/Images/ic_settings.png",
+    "Android_EN/Images/ic_sound.png",
+    "Android_EN/Images/ic_sp_refresh.png",
+    "Android_EN/Images/ic_sp_zoom_in.png",
+    "Android_EN/Images/ic_sp_zoom_out.png",
+    "Android_EN/Images/ic_vibrate.png",
+    "Android_EN/Images/ic_zoom_in.png",
+    "Android_EN/Images/ic_zoom_out.png",
+    "Android_EN/Images/initdevice.png",
+    "Android_EN/Images/isotope_title.png",
+    "Android_EN/Images/log.png",
+    "Android_EN/Images/logmenu.png",
+    "Android_EN/Images/mainscreen.png",
+    "Android_EN/Images/maintitle.png",
+    "Android_EN/Images/mainwidget.png",
+    "Android_EN/Images/map.png",
+    "Android_EN/Images/mapscale.png",
+    "Android_EN/Images/mapsforge.png",
+    "Android_EN/Images/marinelli.png",
+    "Android_EN/Images/marinelliauthor.png",
+    "Android_EN/Images/marinelliauthor02.png",
+    "Android_EN/Images/marinellirc.png",
+    "Android_EN/Images/notificon.png",
+    "Android_EN/Images/notifinfo.png",
+    "Android_EN/Images/screenwidget.png",
+    "Android_EN/Images/search.png",
+    "Android_EN/Images/sp_amplifier.png",
+    "Android_EN/Images/spectrogram.png",
+    "Android_EN/Images/spectrum.png",
+    "Android_EN/Images/spectrumlib.png",
+    "Android_EN/Images/spectrumlocalmenu.png",
+    "Android_EN/Images/spectrumwidget.png",
+    "Android_EN/Images/spgspectrum.png",
+    "Android_EN/Images/track.png",
+    "Android_EN/1 Warnings and info.md",
+    "Android_EN/2 Quick start.md",
+    "Android_EN/3 If the application cannot find the device....md",
+    "Android_EN/4 Main Screen.md",
+    "Android_EN/5 Search.md",
+    "Android_EN/6 Spectrum.md",
+    "Android_EN/7 Spectrogram.md",
+    "Android_EN/8 Activity.md",
+    "Android_EN/9 Log.md",
+    "Android_EN/10 Map and tracks.md",
+    "Android_EN/11 Devices.md",
+    "Android_EN/12 Application settings.md",
+    "Android_EN/13 Device Settings.md",
+    "Android_EN/14 App widgets.md",
+    "Android_EN/15 Folders in the libraries.md",
+    "Android_EN/16 Feedback.md",
+    "Android_EN/Архив.zip",
+    "Android_EN/RC-10x_Android.pdf",
+    "Manual 10X_EN/Device settings/0 Settings.md",
+    "Manual 10X_EN/Device settings/1 Measurement units.md",
+    "Manual 10X_EN/Device settings/2 Count rate - alarm levels.md",
+    "Manual 10X_EN/Device settings/3 Dose rate - alarm levels.md",
+    "Manual 10X_EN/Device settings/4 Dose - alarm levels.md",
+    "Manual 10X_EN/Device settings/5 Screen settings.md",
+    "Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.md",
+    "Manual 10X_EN/Device settings/7 Bluetooth on_off.md",
+    "Manual 10X_EN/Device settings/8 Language selection.md",
+    "Manual 10X_EN/Device settings/9 Time settings.md",
+    "Manual 10X_EN/Device settings/10 Factory settings.md",
+    "Manual 10X_EN/Images/_QRarc101_cut.png",
+    "Manual 10X_EN/Images/a1-17-40x40-16.png",
+    "Manual 10X_EN/Images/a1-17-40x40-48.png",
+    "Manual 10X_EN/Images/about1.png",
+    "Manual 10X_EN/Images/about2.png",
+    "Manual 10X_EN/Images/about3.png",
+    "Manual 10X_EN/Images/about4.jpg",
+    "Manual 10X_EN/Images/about6.png",
+    "Manual 10X_EN/Images/alarm_screen.png",
+    "Manual 10X_EN/Images/Alarms_all.png",
+    "Manual 10X_EN/Images/Android app user manual.png",
+    "Manual 10X_EN/Images/arrow.png",
+    "Manual 10X_EN/Images/battery_charging_sym.png",
+    "Manual 10X_EN/Images/battery_empty_sym.png",
+    "Manual 10X_EN/Images/battery13_sym.png",
+    "Manual 10X_EN/Images/battery23_sym.png",
+    "Manual 10X_EN/Images/battery33_sym.png",
+    "Manual 10X_EN/Images/bluetooth.png",
+    "Manual 10X_EN/Images/bt_sym.png",
+    "Manual 10X_EN/Images/cr_alarm_1.png",
+    "Manual 10X_EN/Images/cr_alarm_2.png",
+    "Manual 10X_EN/Images/cr_alarm_3.png",
+    "Manual 10X_EN/Images/device-info.png",
+    "Manual 10X_EN/Images/display-units.png",
+    "Manual 10X_EN/Images/dose.png",
+    "Manual 10X_EN/Images/dose_alarm_1.png",
+    "Manual 10X_EN/Images/dose_alarm_2.png",
+    "Manual 10X_EN/Images/dose_alarm_3.png",
+    "Manual 10X_EN/Images/dose_rate_sym.png",
+    "Manual 10X_EN/Images/dose_sym.png",
+    "Manual 10X_EN/Images/dose-int.png",
+    "Manual 10X_EN/Images/dose-rate.png",
+    "Manual 10X_EN/Images/estimation_sound_on_f.png",
+    "Manual 10X_EN/Images/estimation_unlocked_f.png",
+    "Manual 10X_EN/Images/factory-settings.png",
+    "Manual 10X_EN/Images/favicon-32.png",
+    "Manual 10X_EN/Images/indicator_levels_sym.png",
+    "Manual 10X_EN/Images/indicator_sym.png",
+    "Manual 10X_EN/Images/info_sym.png",
+    "Manual 10X_EN/Images/key_lock_sym.png",
+    "Manual 10X_EN/Images/language.png",
+    "Manual 10X_EN/Images/lin_sym.png",
+    "Manual 10X_EN/Images/log_sym.png",
+    "Manual 10X_EN/Images/lookup_sym.png",
+    "Manual 10X_EN/Images/md_alarm_1.png",
+    "Manual 10X_EN/Images/md_alarm_2.png",
+    "Manual 10X_EN/Images/md_alarm_3.png",
+    "Manual 10X_EN/Images/measurement-units.png",
+    "Manual 10X_EN/Images/menu_device_info_selected_f.png",
+    "Manual 10X_EN/Images/menu_monitor_selected_f.png",
+    "Manual 10X_EN/Images/menu_onoff_selected_f.png",
+    "Manual 10X_EN/Images/menu_settings_selected_f.png",
+    "Manual 10X_EN/Images/monitor-int.png",
+    "Manual 10X_EN/Images/onoff_sym.png",
+    "Manual 10X_EN/Images/power_ext_sym.png",
+    "Manual 10X_EN/Images/presentation_dose_f.png",
+    "Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png",
+    "Manual 10X_EN/Images/presentation_dose_rate_f.png",
+    "Manual 10X_EN/Images/presentation_scan_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png",
+    "Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png",
+    "Manual 10X_EN/Images/QR spce.radiacode.com.png",
+    "Manual 10X_EN/Images/qr-code_iOs.png",
+    "Manual 10X_EN/Images/radiacode-logo2-black.png",
+    "Manual 10X_EN/Images/RC-101-Android.png",
+    "Manual 10X_EN/Images/RC101_common_view.png",
+    "Manual 10X_EN/Images/RC101_common_view_cutted.png",
+    "Manual 10X_EN/Images/RC101_is_off_f.png",
+    "Manual 10X_EN/Images/RC101_keys_L_pointed.png",
+    "Manual 10X_EN/Images/RC101_keys_R_pointed.png",
+    "Manual 10X_EN/Images/RC101_keys_RL_pointed.png",
+    "Manual 10X_EN/Images/RC101_view.png",
+    "Manual 10X_EN/Images/RC101vs103.jpg",
+    "Manual 10X_EN/Images/s.png",
+    "Manual 10X_EN/Images/screen.png",
+    "Manual 10X_EN/Images/search-int.png",
+    "Manual 10X_EN/Images/setting_sym.png",
+    "Manual 10X_EN/Images/settings_bt_selected_off_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_return_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_selected_f 1.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png",
+    "Manual 10X_EN/Images/settings_device_info_dialog_f.png",
+    "Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_device_reset_selected_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_auto_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_return_f.png",
+    "Manual 10X_EN/Images/settings_display_backlight_selected_f.png",
+    "Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png",
+    "Manual 10X_EN/Images/settings_display_return_f.png",
+    "Manual 10X_EN/Images/settings_display_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_return_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png",
+    "Manual 10X_EN/Images/settings_lang_selected_eng_f.png",
+    "Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png",
+    "Manual 10X_EN/Images/settings_outofmenu_selected_f.png",
+    "Manual 10X_EN/Images/settings_return_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_power_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_selected_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png",
+    "Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png",
+    "Manual 10X_EN/Images/settings_signals_mode_selected_f.png",
+    "Manual 10X_EN/Images/settings_time_selected_f.png",
+    "Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png",
+    "Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png",
+    "Manual 10X_EN/Images/settings_time_setting_dialog_f.png",
+    "Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png",
+    "Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png",
+    "Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png",
+    "Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png",
+    "Manual 10X_EN/Images/signals.png",
+    "Manual 10X_EN/Images/sound_off_sym.png",
+    "Manual 10X_EN/Images/sound_on_sym.png",
+    "Manual 10X_EN/Images/spectrum_sym.png",
+    "Manual 10X_EN/Images/spectrum-int-duble.png",
+    "Manual 10X_EN/Images/status_base.svg",
+    "Manual 10X_EN/Images/status_dose.png",
+    "Manual 10X_EN/Images/status_dose_all_signs.png",
+    "Manual 10X_EN/Images/status_monitor_all_signs.png",
+    "Manual 10X_EN/Images/status_scan.png",
+    "Manual 10X_EN/Images/status_scan_all_signs.png",
+    "Manual 10X_EN/Images/status_spectrum.png",
+    "Manual 10X_EN/Images/time.png",
+    "Manual 10X_EN/Images/usb_sym.png",
+    "Manual 10X_EN/Info and warnings/Battery charging.md",
+    "Manual 10X_EN/Info and warnings/Before use.md",
+    "Manual 10X_EN/Info and warnings/Developer contacts.md",
+    "Manual 10X_EN/Info and warnings/Device info.md",
+    "Manual 10X_EN/Info and warnings/Display.md",
+    "Manual 10X_EN/Info and warnings/Firmware update.md",
+    "Manual 10X_EN/Info and warnings/Icons.md",
+    "Manual 10X_EN/Info and warnings/Safety precautions and warnings.md",
+    "Manual 10X_EN/Info and warnings/Stand-alone use of the device.md",
+    "Manual 10X_EN/Radiacode-10X series/Buttons.md",
+    "Manual 10X_EN/Radiacode-10X series/Device design.md",
+    "Manual 10X_EN/Radiacode-10X series/Smartphone Applications.md",
+    "Manual 10X_EN/Radiacode-10X series/Technical specifications.md",
+    "Manual 10X_EN/Radiacode-10X series/Working with a PC.md",
+    "Manual 10X_EN/Alarms.md",
+    "Manual 10X_EN/Basics.md",
+    "Manual 10X_EN/Display Modes.md",
+    "Manual 10X_EN/FAQ.md",
+    "Manual 10X_EN/image-zoom.css",
+    "Manual 10X_EN/Indication sound, vibration, light.md",
+    "Manual 10X_EN/publish.css",
+    "Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf",
+    "Manual 10X_EN/RC-101-Android.psd",
+    "Manual 10X_EN/Troubleshooting.md",
+    "Manual 10X_EN/Turn ON and OFF.md",
+    "Windows_EN/ImagesPC/autobrightness.png",
+    "Windows_EN/ImagesPC/cicon_loadindex_ani.gif",
+    "Windows_EN/ImagesPC/cicon1.png",
+    "Windows_EN/ImagesPC/cicon2.png",
+    "Windows_EN/ImagesPC/cicon9.png",
+    "Windows_EN/ImagesPC/ciconidx.gif",
+    "Windows_EN/ImagesPC/edit_addbookmark.png",
+    "Windows_EN/ImagesPC/edit_append.png",
+    "Windows_EN/ImagesPC/edit_cliphistory.png",
+    "Windows_EN/ImagesPC/edit_condensed.png",
+    "Windows_EN/ImagesPC/edit_condensedsetup.png",
+    "Windows_EN/ImagesPC/edit_copy.png",
+    "Windows_EN/ImagesPC/edit_cut.png",
+    "Windows_EN/ImagesPC/edit_cutappend.png",
+    "Windows_EN/ImagesPC/edit_nextsearch.png",
+    "Windows_EN/ImagesPC/edit_paste.png",
+    "Windows_EN/ImagesPC/edit_replace.png",
+    "Windows_EN/ImagesPC/edit_retrievebookmark.png",
+    "Windows_EN/ImagesPC/edit_search.png",
+    "Windows_EN/ImagesPC/edit_searchresults.png",
+    "Windows_EN/ImagesPC/edit_undo.png",
+    "Windows_EN/ImagesPC/hmfile_hash_86fa007e.png",
+    "Windows_EN/ImagesPC/isotope_excel.png",
+    "Windows_EN/ImagesPC/isotope_title.png",
+    "Windows_EN/ImagesPC/localmenucurgraphs.png",
+    "Windows_EN/ImagesPC/localmenulog.png",
+    "Windows_EN/ImagesPC/localmenuwatches.png",
+    "Windows_EN/ImagesPC/logcsv.png",
+    "Windows_EN/ImagesPC/logcsvconfig.png",
+    "Windows_EN/ImagesPC/logdelete.png",
+    "Windows_EN/ImagesPC/logdeleteold.png",
+    "Windows_EN/ImagesPC/logeditcomment.png",
+    "Windows_EN/ImagesPC/logfilter.png",
+    "Windows_EN/ImagesPC/logfilterargument.png",
+    "Windows_EN/ImagesPC/logfiltercondcond.png",
+    "Windows_EN/ImagesPC/logfiltercondexample.png",
+    "Windows_EN/ImagesPC/logfiltercondition.png",
+    "Windows_EN/ImagesPC/logfiltercondlist.png",
+    "Windows_EN/ImagesPC/logfilterexample.png",
+    "Windows_EN/ImagesPC/logfilteronecond.png",
+    "Windows_EN/ImagesPC/loghtml.png",
+    "Windows_EN/ImagesPC/loghtmlexample.png",
+    "Windows_EN/ImagesPC/logopenfilter.png",
+    "Windows_EN/ImagesPC/logopensearch.png",
+    "Windows_EN/ImagesPC/logsearch.png",
+    "Windows_EN/ImagesPC/logsearchhighlight.png",
+    "Windows_EN/ImagesPC/logsearchselect.png",
+    "Windows_EN/ImagesPC/logsettings.png",
+    "Windows_EN/ImagesPC/mainwintoolbar.png",
+    "Windows_EN/ImagesPC/misc_lasteditcontext.png",
+    "Windows_EN/ImagesPC/openlog.png",
+    "Windows_EN/ImagesPC/openlogsettings.png",
+    "Windows_EN/ImagesPC/openspectrogram.png",
+    "Windows_EN/ImagesPC/openspectrum.png",
+    "Windows_EN/ImagesPC/quicksearchspectrum.png",
+    "Windows_EN/ImagesPC/sp_amplifier.png",
+    "Windows_EN/ImagesPC/spectrogram.png",
+    "Windows_EN/ImagesPC/spectrogramlib.png",
+    "Windows_EN/ImagesPC/spectrum_colors.png",
+    "Windows_EN/ImagesPC/spectrumlib.png",
+    "Windows_EN/ImagesPC/wincurvalues.png",
+    "Windows_EN/ImagesPC/winspectrum.png",
+    "Windows_EN/Info/1_Information.md",
+    "Windows_EN/Info/3.1 Information about the RadiaCode Database.md",
+    "Windows_EN/Info/3.2 Special Function Registers of RadiaCode-10X.md",
+    "Windows_EN/Menu/2.2_Main_Menu_RadiaCode.md",
+    "Windows_EN/Menu/2.2.1_File_Menu.md",
+    "Windows_EN/Menu/2.2.2_Editor_Menu.md",
+    "Windows_EN/Menu/2.2.3_View_Menu.md",
+    "Windows_EN/Menu/2.2.4_Configuration_Menu.md",
+    "Windows_EN/Menu/2.2.5_Database_Menu.md",
+    "Windows_EN/Menu/2.2.6_Tools_Menu.md",
+    "Windows_EN/Menu/2.2.7_Scripts_Menu.md",
+    "Windows_EN/Menu/2.2.8_Windows_Menu.md",
+    "Windows_EN/Menu/2.2.9_Help_Menu.md",
+    "Windows_EN/Tubs_windows/2.1_Windows_Overview.md",
+    "Windows_EN/Tubs_windows/2.1.1_Event_Log_Window.md",
+    "Windows_EN/Tubs_windows/2.1.2_Spectrum_Window.md",
+    "Windows_EN/Tubs_windows/2.1.3_Spectrum_View_Window.md",
+    "Windows_EN/Tubs_windows/2.1.4_Spectrogram_Window.md",
+    "Windows_EN/Tubs_windows/2.1.5_Current_Values_Graph_Window.md",
+    "Windows_EN/Tubs_windows/2.1.6 _Message console_window.md",
+    "Windows_EN/Tubs_windows/2.1.7_Variables_Window.md",
+    "Windows_EN/RC-10x_Windows.pdf",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "Android_EN/Images/_apply.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4727,
+      "exportedPath": "Android_EN/Images/_apply.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_calib.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12783,
+      "exportedPath": "Android_EN/Images/_calib.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_calib_table.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 40880,
+      "exportedPath": "Android_EN/Images/_calib_table.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_clicks.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3850,
+      "exportedPath": "Android_EN/Images/_clicks.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_countrate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 49455,
+      "exportedPath": "Android_EN/Images/_countrate.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_create_folder.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 72253,
+      "exportedPath": "Android_EN/Images/_create_folder.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_devicecontrol.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1372,
+      "exportedPath": "Android_EN/Images/_devicecontrol.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_dose.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6758,
+      "exportedPath": "Android_EN/Images/_dose.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_doserate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 47407,
+      "exportedPath": "Android_EN/Images/_doserate.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_doseratebar.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1991,
+      "exportedPath": "Android_EN/Images/_doseratebar.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_hardness.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 44183,
+      "exportedPath": "Android_EN/Images/_hardness.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_lib_picture.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8989,
+      "exportedPath": "Android_EN/Images/_lib_picture.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_liveauto.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2479,
+      "exportedPath": "Android_EN/Images/_liveauto.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_livesettings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2525,
+      "exportedPath": "Android_EN/Images/_livesettings.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_markerinfo.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12138,
+      "exportedPath": "Android_EN/Images/_markerinfo.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_move_here.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 21317,
+      "exportedPath": "Android_EN/Images/_move_here.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_move_to_folder.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 105203,
+      "exportedPath": "Android_EN/Images/_move_to_folder.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_navbuttons0.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2056,
+      "exportedPath": "Android_EN/Images/_navbuttons0.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_navbuttons1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3241,
+      "exportedPath": "Android_EN/Images/_navbuttons1.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_navbuttons2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2864,
+      "exportedPath": "Android_EN/Images/_navbuttons2.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_navmenu.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1099,
+      "exportedPath": "Android_EN/Images/_navmenu.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_ok.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3803,
+      "exportedPath": "Android_EN/Images/_ok.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_pic_on_graph.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 15869,
+      "exportedPath": "Android_EN/Images/_pic_on_graph.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_picsonmap.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10401,
+      "exportedPath": "Android_EN/Images/_picsonmap.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_pseudotrack.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 101149,
+      "exportedPath": "Android_EN/Images/_pseudotrack.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_raredata.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5440,
+      "exportedPath": "Android_EN/Images/_raredata.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_recording.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12279,
+      "exportedPath": "Android_EN/Images/_recording.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_savepseudotrack.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 17537,
+      "exportedPath": "Android_EN/Images/_savepseudotrack.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_scale.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1229,
+      "exportedPath": "Android_EN/Images/_scale.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_soundoff.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1405,
+      "exportedPath": "Android_EN/Images/_soundoff.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_spg_mark.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 15529,
+      "exportedPath": "Android_EN/Images/_spg_mark.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_spg_more.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11259,
+      "exportedPath": "Android_EN/Images/_spg_more.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_spg_zoom.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 102156,
+      "exportedPath": "Android_EN/Images/_spg_zoom.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_tabcontrol.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7683,
+      "exportedPath": "Android_EN/Images/_tabcontrol.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_tabcontrolicons.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4261,
+      "exportedPath": "Android_EN/Images/_tabcontrolicons.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/_trk_options.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5315,
+      "exportedPath": "Android_EN/Images/_trk_options.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/100ml.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 40823,
+      "exportedPath": "Android_EN/Images/100ml.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/activity.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 72645,
+      "exportedPath": "Android_EN/Images/activity.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/avrcp.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 28361,
+      "exportedPath": "Android_EN/Images/avrcp.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/bt_on.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 387,
+      "exportedPath": "Android_EN/Images/bt_on.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/camera.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 256104,
+      "exportedPath": "Android_EN/Images/camera.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/cameraresize.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 83505,
+      "exportedPath": "Android_EN/Images/cameraresize.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/cicon_loadindex_ani.gif": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7657,
+      "exportedPath": "Android_EN/Images/cicon_loadindex_ani.gif",
+      "dependencies": []
+    },
+    "Android_EN/Images/container.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 35482,
+      "exportedPath": "Android_EN/Images/container.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/devices.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 77063,
+      "exportedPath": "Android_EN/Images/devices.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_a.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2528,
+      "exportedPath": "Android_EN/Images/ic_a.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_auto_auto.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1363,
+      "exportedPath": "Android_EN/Images/ic_auto_auto.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_auto_brightness.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3948,
+      "exportedPath": "Android_EN/Images/ic_auto_brightness.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_auto_full.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1192,
+      "exportedPath": "Android_EN/Images/ic_auto_full.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_auto_off.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1736,
+      "exportedPath": "Android_EN/Images/ic_auto_off.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_auto_visible.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1253,
+      "exportedPath": "Android_EN/Images/ic_auto_visible.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_cur_location.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1411,
+      "exportedPath": "Android_EN/Images/ic_cur_location.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_event.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1598,
+      "exportedPath": "Android_EN/Images/ic_event.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_flash_auto.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1484,
+      "exportedPath": "Android_EN/Images/ic_flash_auto.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_flip_camera.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1922,
+      "exportedPath": "Android_EN/Images/ic_flip_camera.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_import.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2078,
+      "exportedPath": "Android_EN/Images/ic_import.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_library.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 725,
+      "exportedPath": "Android_EN/Images/ic_library.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_live_settings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 831,
+      "exportedPath": "Android_EN/Images/ic_live_settings.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_map_count_rate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2624,
+      "exportedPath": "Android_EN/Images/ic_map_count_rate.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_map_dose_rate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2200,
+      "exportedPath": "Android_EN/Images/ic_map_dose_rate.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_more_horiz.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1065,
+      "exportedPath": "Android_EN/Images/ic_more_horiz.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_more_vert.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 970,
+      "exportedPath": "Android_EN/Images/ic_more_vert.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_next.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 637,
+      "exportedPath": "Android_EN/Images/ic_next.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_prev.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 635,
+      "exportedPath": "Android_EN/Images/ic_prev.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_quadred.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 902,
+      "exportedPath": "Android_EN/Images/ic_quadred.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_rare.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1890,
+      "exportedPath": "Android_EN/Images/ic_rare.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_resize.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1570,
+      "exportedPath": "Android_EN/Images/ic_resize.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_robot.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1891,
+      "exportedPath": "Android_EN/Images/ic_robot.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_roundgray_wb.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1599,
+      "exportedPath": "Android_EN/Images/ic_roundgray_wb.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_route.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1978,
+      "exportedPath": "Android_EN/Images/ic_route.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_settings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2070,
+      "exportedPath": "Android_EN/Images/ic_settings.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_sound.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2831,
+      "exportedPath": "Android_EN/Images/ic_sound.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_sp_refresh.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1234,
+      "exportedPath": "Android_EN/Images/ic_sp_refresh.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_sp_zoom_in.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1862,
+      "exportedPath": "Android_EN/Images/ic_sp_zoom_in.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_sp_zoom_out.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1832,
+      "exportedPath": "Android_EN/Images/ic_sp_zoom_out.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_vibrate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1045,
+      "exportedPath": "Android_EN/Images/ic_vibrate.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_zoom_in.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 288,
+      "exportedPath": "Android_EN/Images/ic_zoom_in.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/ic_zoom_out.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 186,
+      "exportedPath": "Android_EN/Images/ic_zoom_out.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/initdevice.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 31355,
+      "exportedPath": "Android_EN/Images/initdevice.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/isotope_title.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8923,
+      "exportedPath": "Android_EN/Images/isotope_title.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/log.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 149511,
+      "exportedPath": "Android_EN/Images/log.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/logmenu.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 88439,
+      "exportedPath": "Android_EN/Images/logmenu.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/mainscreen.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 151820,
+      "exportedPath": "Android_EN/Images/mainscreen.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/maintitle.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6371,
+      "exportedPath": "Android_EN/Images/maintitle.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/mainwidget.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12258,
+      "exportedPath": "Android_EN/Images/mainwidget.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/map.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 152757,
+      "exportedPath": "Android_EN/Images/map.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/mapscale.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 141058,
+      "exportedPath": "Android_EN/Images/mapscale.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/mapsforge.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 27400,
+      "exportedPath": "Android_EN/Images/mapsforge.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/marinelli.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 43275,
+      "exportedPath": "Android_EN/Images/marinelli.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/marinelliauthor.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 61484,
+      "exportedPath": "Android_EN/Images/marinelliauthor.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/marinelliauthor02.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 35359,
+      "exportedPath": "Android_EN/Images/marinelliauthor02.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/marinellirc.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 52227,
+      "exportedPath": "Android_EN/Images/marinellirc.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/notificon.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 18819,
+      "exportedPath": "Android_EN/Images/notificon.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/notifinfo.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10238,
+      "exportedPath": "Android_EN/Images/notifinfo.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/screenwidget.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 23328,
+      "exportedPath": "Android_EN/Images/screenwidget.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/search.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 100071,
+      "exportedPath": "Android_EN/Images/search.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/sp_amplifier.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4203,
+      "exportedPath": "Android_EN/Images/sp_amplifier.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spectrogram.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 125357,
+      "exportedPath": "Android_EN/Images/spectrogram.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 140078,
+      "exportedPath": "Android_EN/Images/spectrum.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spectrumlib.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 54814,
+      "exportedPath": "Android_EN/Images/spectrumlib.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spectrumlocalmenu.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1181,
+      "exportedPath": "Android_EN/Images/spectrumlocalmenu.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spectrumwidget.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 31806,
+      "exportedPath": "Android_EN/Images/spectrumwidget.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/spgspectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 112544,
+      "exportedPath": "Android_EN/Images/spgspectrum.png",
+      "dependencies": []
+    },
+    "Android_EN/Images/track.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 192369,
+      "exportedPath": "Android_EN/Images/track.png",
+      "dependencies": []
+    },
+    "Android_EN/1 Warnings and info.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3499,
+      "exportedPath": "Android_EN/1 Warnings and info.html",
+      "dependencies": []
+    },
+    "Android_EN/2 Quick start.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2553,
+      "exportedPath": "Android_EN/2 Quick start.html",
+      "dependencies": []
+    },
+    "Android_EN/3 If the application cannot find the device....md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1797,
+      "exportedPath": "Android_EN/3 If the application cannot find the device....html",
+      "dependencies": []
+    },
+    "Android_EN/4 Main Screen.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 49408,
+      "exportedPath": "Android_EN/4 Main Screen.html",
+      "dependencies": []
+    },
+    "Android_EN/5 Search.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7724,
+      "exportedPath": "Android_EN/5 Search.html",
+      "dependencies": []
+    },
+    "Android_EN/6 Spectrum.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 45377,
+      "exportedPath": "Android_EN/6 Spectrum.html",
+      "dependencies": []
+    },
+    "Android_EN/7 Spectrogram.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 55078,
+      "exportedPath": "Android_EN/7 Spectrogram.html",
+      "dependencies": []
+    },
+    "Android_EN/8 Activity.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 16420,
+      "exportedPath": "Android_EN/8 Activity.html",
+      "dependencies": []
+    },
+    "Android_EN/9 Log.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3498,
+      "exportedPath": "Android_EN/9 Log.html",
+      "dependencies": []
+    },
+    "Android_EN/10 Map and tracks.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 38239,
+      "exportedPath": "Android_EN/10 Map and tracks.html",
+      "dependencies": []
+    },
+    "Android_EN/11 Devices.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1236,
+      "exportedPath": "Android_EN/11 Devices.html",
+      "dependencies": []
+    },
+    "Android_EN/12 Application settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8908,
+      "exportedPath": "Android_EN/12 Application settings.html",
+      "dependencies": []
+    },
+    "Android_EN/13 Device Settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2893,
+      "exportedPath": "Android_EN/13 Device Settings.html",
+      "dependencies": []
+    },
+    "Android_EN/14 App widgets.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2117,
+      "exportedPath": "Android_EN/14 App widgets.html",
+      "dependencies": []
+    },
+    "Android_EN/15 Folders in the libraries.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2172,
+      "exportedPath": "Android_EN/15 Folders in the libraries.html",
+      "dependencies": []
+    },
+    "Android_EN/16 Feedback.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 794,
+      "exportedPath": "Android_EN/16 Feedback.html",
+      "dependencies": []
+    },
+    "Android_EN/Архив.zip": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 51518,
+      "exportedPath": "Android_EN/Архив.zip",
+      "dependencies": []
+    },
+    "Android_EN/RC-10x_Android.pdf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6562189,
+      "exportedPath": "Android_EN/RC-10x_Android.pdf",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/0 Settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2381,
+      "exportedPath": "Manual 10X_EN/Device settings/0 Settings.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/1 Measurement units.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2913,
+      "exportedPath": "Manual 10X_EN/Device settings/1 Measurement units.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/2 Count rate - alarm levels.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4682,
+      "exportedPath": "Manual 10X_EN/Device settings/2 Count rate - alarm levels.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/3 Dose rate - alarm levels.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4752,
+      "exportedPath": "Manual 10X_EN/Device settings/3 Dose rate - alarm levels.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/4 Dose - alarm levels.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4545,
+      "exportedPath": "Manual 10X_EN/Device settings/4 Dose - alarm levels.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/5 Screen settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4915,
+      "exportedPath": "Manual 10X_EN/Device settings/5 Screen settings.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10650,
+      "exportedPath": "Manual 10X_EN/Device settings/6 Signals - sound, vibration, light.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/7 Bluetooth on_off.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1413,
+      "exportedPath": "Manual 10X_EN/Device settings/7 Bluetooth on_off.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/8 Language selection.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1394,
+      "exportedPath": "Manual 10X_EN/Device settings/8 Language selection.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/9 Time settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2535,
+      "exportedPath": "Manual 10X_EN/Device settings/9 Time settings.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Device settings/10 Factory settings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2354,
+      "exportedPath": "Manual 10X_EN/Device settings/10 Factory settings.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/_QRarc101_cut.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1284,
+      "exportedPath": "Manual 10X_EN/Images/_QRarc101_cut.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/a1-17-40x40-16.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 652,
+      "exportedPath": "Manual 10X_EN/Images/a1-17-40x40-16.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/a1-17-40x40-48.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 847,
+      "exportedPath": "Manual 10X_EN/Images/a1-17-40x40-48.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/about1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 210034,
+      "exportedPath": "Manual 10X_EN/Images/about1.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/about2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 352461,
+      "exportedPath": "Manual 10X_EN/Images/about2.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/about3.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2587,
+      "exportedPath": "Manual 10X_EN/Images/about3.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/about4.jpg": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 31960,
+      "exportedPath": "Manual 10X_EN/Images/about4.jpg",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/about6.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1178821,
+      "exportedPath": "Manual 10X_EN/Images/about6.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/alarm_screen.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3169,
+      "exportedPath": "Manual 10X_EN/Images/alarm_screen.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/Alarms_all.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5106,
+      "exportedPath": "Manual 10X_EN/Images/Alarms_all.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/Android app user manual.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 262636,
+      "exportedPath": "Manual 10X_EN/Images/Android app user manual.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/arrow.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1136,
+      "exportedPath": "Manual 10X_EN/Images/arrow.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/battery_charging_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 279,
+      "exportedPath": "Manual 10X_EN/Images/battery_charging_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/battery_empty_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 264,
+      "exportedPath": "Manual 10X_EN/Images/battery_empty_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/battery13_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 255,
+      "exportedPath": "Manual 10X_EN/Images/battery13_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/battery23_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 265,
+      "exportedPath": "Manual 10X_EN/Images/battery23_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/battery33_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 263,
+      "exportedPath": "Manual 10X_EN/Images/battery33_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/bluetooth.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10590,
+      "exportedPath": "Manual 10X_EN/Images/bluetooth.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/bt_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 253,
+      "exportedPath": "Manual 10X_EN/Images/bt_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/cr_alarm_1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 267,
+      "exportedPath": "Manual 10X_EN/Images/cr_alarm_1.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/cr_alarm_2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 269,
+      "exportedPath": "Manual 10X_EN/Images/cr_alarm_2.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/cr_alarm_3.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 283,
+      "exportedPath": "Manual 10X_EN/Images/cr_alarm_3.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/device-info.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 18039,
+      "exportedPath": "Manual 10X_EN/Images/device-info.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/display-units.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 14680,
+      "exportedPath": "Manual 10X_EN/Images/display-units.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 15293,
+      "exportedPath": "Manual 10X_EN/Images/dose.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose_alarm_1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 256,
+      "exportedPath": "Manual 10X_EN/Images/dose_alarm_1.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose_alarm_2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 264,
+      "exportedPath": "Manual 10X_EN/Images/dose_alarm_2.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose_alarm_3.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 271,
+      "exportedPath": "Manual 10X_EN/Images/dose_alarm_3.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose_rate_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 357,
+      "exportedPath": "Manual 10X_EN/Images/dose_rate_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 265,
+      "exportedPath": "Manual 10X_EN/Images/dose_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose-int.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 13701,
+      "exportedPath": "Manual 10X_EN/Images/dose-int.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/dose-rate.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 13815,
+      "exportedPath": "Manual 10X_EN/Images/dose-rate.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/estimation_sound_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3077,
+      "exportedPath": "Manual 10X_EN/Images/estimation_sound_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/estimation_unlocked_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3089,
+      "exportedPath": "Manual 10X_EN/Images/estimation_unlocked_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/factory-settings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10602,
+      "exportedPath": "Manual 10X_EN/Images/factory-settings.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/favicon-32.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6160,
+      "exportedPath": "Manual 10X_EN/Images/favicon-32.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/indicator_levels_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1889,
+      "exportedPath": "Manual 10X_EN/Images/indicator_levels_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/indicator_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 440,
+      "exportedPath": "Manual 10X_EN/Images/indicator_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/info_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 225,
+      "exportedPath": "Manual 10X_EN/Images/info_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/key_lock_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 232,
+      "exportedPath": "Manual 10X_EN/Images/key_lock_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/language.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12573,
+      "exportedPath": "Manual 10X_EN/Images/language.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/lin_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 218,
+      "exportedPath": "Manual 10X_EN/Images/lin_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/log_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 252,
+      "exportedPath": "Manual 10X_EN/Images/log_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/lookup_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 328,
+      "exportedPath": "Manual 10X_EN/Images/lookup_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/md_alarm_1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 276,
+      "exportedPath": "Manual 10X_EN/Images/md_alarm_1.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/md_alarm_2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 285,
+      "exportedPath": "Manual 10X_EN/Images/md_alarm_2.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/md_alarm_3.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 300,
+      "exportedPath": "Manual 10X_EN/Images/md_alarm_3.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/measurement-units.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11484,
+      "exportedPath": "Manual 10X_EN/Images/measurement-units.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/menu_device_info_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3198,
+      "exportedPath": "Manual 10X_EN/Images/menu_device_info_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/menu_monitor_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3124,
+      "exportedPath": "Manual 10X_EN/Images/menu_monitor_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/menu_onoff_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3104,
+      "exportedPath": "Manual 10X_EN/Images/menu_onoff_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/menu_settings_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3159,
+      "exportedPath": "Manual 10X_EN/Images/menu_settings_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/monitor-int.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 17828,
+      "exportedPath": "Manual 10X_EN/Images/monitor-int.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/onoff_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 334,
+      "exportedPath": "Manual 10X_EN/Images/onoff_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/power_ext_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 233,
+      "exportedPath": "Manual 10X_EN/Images/power_ext_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_dose_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2989,
+      "exportedPath": "Manual 10X_EN/Images/presentation_dose_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3156,
+      "exportedPath": "Manual 10X_EN/Images/presentation_dose_rate_all_signs_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_dose_rate_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3089,
+      "exportedPath": "Manual 10X_EN/Images/presentation_dose_rate_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_scan_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2822,
+      "exportedPath": "Manual 10X_EN/Images/presentation_scan_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2713,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2693,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_lin_1MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2649,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_lin_2MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2654,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_lin_3MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2831,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_log_1MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2765,
+      "exportedPath": "Manual 10X_EN/Images/presentation_spectrum_log_3MeV_scale_Cs137_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/QR spce.radiacode.com.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1788,
+      "exportedPath": "Manual 10X_EN/Images/QR spce.radiacode.com.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/qr-code_iOs.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9513,
+      "exportedPath": "Manual 10X_EN/Images/qr-code_iOs.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/radiacode-logo2-black.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2502,
+      "exportedPath": "Manual 10X_EN/Images/radiacode-logo2-black.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC-101-Android.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 262636,
+      "exportedPath": "Manual 10X_EN/Images/RC-101-Android.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_common_view.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 70967,
+      "exportedPath": "Manual 10X_EN/Images/RC101_common_view.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_common_view_cutted.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 69606,
+      "exportedPath": "Manual 10X_EN/Images/RC101_common_view_cutted.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_is_off_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1982,
+      "exportedPath": "Manual 10X_EN/Images/RC101_is_off_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_keys_L_pointed.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 16651,
+      "exportedPath": "Manual 10X_EN/Images/RC101_keys_L_pointed.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_keys_R_pointed.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 16892,
+      "exportedPath": "Manual 10X_EN/Images/RC101_keys_R_pointed.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_keys_RL_pointed.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 17616,
+      "exportedPath": "Manual 10X_EN/Images/RC101_keys_RL_pointed.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101_view.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 323449,
+      "exportedPath": "Manual 10X_EN/Images/RC101_view.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/RC101vs103.jpg": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 321547,
+      "exportedPath": "Manual 10X_EN/Images/RC101vs103.jpg",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/s.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 514,
+      "exportedPath": "Manual 10X_EN/Images/s.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/screen.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9990,
+      "exportedPath": "Manual 10X_EN/Images/screen.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/search-int.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10830,
+      "exportedPath": "Manual 10X_EN/Images/search-int.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/setting_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 378,
+      "exportedPath": "Manual 10X_EN/Images/setting_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_bt_selected_off_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2663,
+      "exportedPath": "Manual 10X_EN/Images/settings_bt_selected_off_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_return_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2855,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_return_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2848,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_selected_f 1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2848,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_selected_f 1.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2872,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2859,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2839,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2826,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2860,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2840,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2824,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_confirml_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2848,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2818,
+      "exportedPath": "Manual 10X_EN/Images/settings_count_rate_thresholds_outoffmenu_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_device_info_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2987,
+      "exportedPath": "Manual 10X_EN/Images/settings_device_info_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2924,
+      "exportedPath": "Manual 10X_EN/Images/settings_device_reset_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2922,
+      "exportedPath": "Manual 10X_EN/Images/settings_device_reset_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_device_reset_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2667,
+      "exportedPath": "Manual 10X_EN/Images/settings_device_reset_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_auto_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2807,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_auto_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2758,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_brightness_5_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2779,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_duration_10s_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2773,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_duration_15s_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_return_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2710,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_return_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_backlight_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2695,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_backlight_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2662,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_orientation_selected_auto_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_return_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2696,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_return_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_display_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2508,
+      "exportedPath": "Manual 10X_EN/Images/settings_display_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2703,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_outofmenu_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2942,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_return_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2815,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2951,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2857,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2842,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2852,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2948,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2888,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2868,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_confirml_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2834,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2867,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_rate_thresholds_outoffmenu_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_return_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2762,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_return_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2605,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2897,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_1_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2758,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2745,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2819,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_1_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2900,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_2_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2788,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2775,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2822,
+      "exportedPath": "Manual 10X_EN/Images/settings_dose_threshold_2_set_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_lang_selected_eng_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2779,
+      "exportedPath": "Manual 10X_EN/Images/settings_lang_selected_eng_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2811,
+      "exportedPath": "Manual 10X_EN/Images/settings_modality_Zv_per_h_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_outofmenu_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2810,
+      "exportedPath": "Manual 10X_EN/Images/settings_outofmenu_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_return_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2644,
+      "exportedPath": "Manual 10X_EN/Images/settings_return_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2517,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_alarms_dose_rate_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2552,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_alarms_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2596,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_click_selected_off_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2616,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_click_selected_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2611,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_common_alarm_1_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2694,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_connects_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2651,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_keysound_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2593,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_light_selected_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_power_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2680,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_power_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2510,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2590,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_off_selected_vibro_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2584,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_on_selected_vibro_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2682,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_outoffmenu_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2567,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_on_return_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2591,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_on_vibro_selected_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2603,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_selected_off_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2619,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_sound_selected_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2602,
+      "exportedPath": "Manual 10X_EN/Images/settings_signalisation_vibro_selected_on_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_signals_mode_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2801,
+      "exportedPath": "Manual 10X_EN/Images/settings_signals_mode_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_time_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2684,
+      "exportedPath": "Manual 10X_EN/Images/settings_time_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2738,
+      "exportedPath": "Manual 10X_EN/Images/settings_time_setting_dialog_cancel_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2710,
+      "exportedPath": "Manual 10X_EN/Images/settings_time_setting_dialog_confirm_selected_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_time_setting_dialog_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2730,
+      "exportedPath": "Manual 10X_EN/Images/settings_time_setting_dialog_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2713,
+      "exportedPath": "Manual 10X_EN/Images/settings_units_count_rate_selected_CPM_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2710,
+      "exportedPath": "Manual 10X_EN/Images/settings_units_count_rate_selected_CPS_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2707,
+      "exportedPath": "Manual 10X_EN/Images/settings_units_dose_rate_selected_R_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2725,
+      "exportedPath": "Manual 10X_EN/Images/settings_units_dose_rate_selected_Zv_f.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/signals.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9597,
+      "exportedPath": "Manual 10X_EN/Images/signals.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/sound_off_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 275,
+      "exportedPath": "Manual 10X_EN/Images/sound_off_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/sound_on_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 264,
+      "exportedPath": "Manual 10X_EN/Images/sound_on_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/spectrum_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 312,
+      "exportedPath": "Manual 10X_EN/Images/spectrum_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/spectrum-int-duble.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 19914,
+      "exportedPath": "Manual 10X_EN/Images/spectrum-int-duble.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_base.svg": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4641,
+      "exportedPath": "Manual 10X_EN/Images/status_base.svg",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_dose.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 324,
+      "exportedPath": "Manual 10X_EN/Images/status_dose.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_dose_all_signs.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 505,
+      "exportedPath": "Manual 10X_EN/Images/status_dose_all_signs.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_monitor_all_signs.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 482,
+      "exportedPath": "Manual 10X_EN/Images/status_monitor_all_signs.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_scan.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 343,
+      "exportedPath": "Manual 10X_EN/Images/status_scan.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_scan_all_signs.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 519,
+      "exportedPath": "Manual 10X_EN/Images/status_scan_all_signs.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/status_spectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 496,
+      "exportedPath": "Manual 10X_EN/Images/status_spectrum.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/time.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9516,
+      "exportedPath": "Manual 10X_EN/Images/time.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Images/usb_sym.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 260,
+      "exportedPath": "Manual 10X_EN/Images/usb_sym.png",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Battery charging.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1261,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Battery charging.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Before use.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 988,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Before use.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Developer contacts.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 199,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Developer contacts.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Device info.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 321,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Device info.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Display.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1464,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Display.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Firmware update.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2249,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Firmware update.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Icons.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5570,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Icons.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Safety precautions and warnings.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3663,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Safety precautions and warnings.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Info and warnings/Stand-alone use of the device.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 894,
+      "exportedPath": "Manual 10X_EN/Info and warnings/Stand-alone use of the device.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Radiacode-10X series/Buttons.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6414,
+      "exportedPath": "Manual 10X_EN/Radiacode-10X series/Buttons.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Radiacode-10X series/Device design.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1376,
+      "exportedPath": "Manual 10X_EN/Radiacode-10X series/Device design.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Radiacode-10X series/Smartphone Applications.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1088,
+      "exportedPath": "Manual 10X_EN/Radiacode-10X series/Smartphone Applications.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Radiacode-10X series/Technical specifications.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6585,
+      "exportedPath": "Manual 10X_EN/Radiacode-10X series/Technical specifications.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Radiacode-10X series/Working with a PC.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1060,
+      "exportedPath": "Manual 10X_EN/Radiacode-10X series/Working with a PC.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Alarms.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5865,
+      "exportedPath": "Manual 10X_EN/Alarms.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Basics.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7776,
+      "exportedPath": "Manual 10X_EN/Basics.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Display Modes.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7345,
+      "exportedPath": "Manual 10X_EN/Display Modes.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/FAQ.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2069,
+      "exportedPath": "Manual 10X_EN/FAQ.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/image-zoom.css": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1719,
+      "exportedPath": "Manual 10X_EN/image-zoom.css",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Indication sound, vibration, light.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1233,
+      "exportedPath": "Manual 10X_EN/Indication sound, vibration, light.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/publish.css": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 58945,
+      "exportedPath": "Manual 10X_EN/publish.css",
+      "dependencies": []
+    },
+    "Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5915103,
+      "exportedPath": "Manual 10X_EN/RC-10x_Device_Manual_NEW.pdf",
+      "dependencies": []
+    },
+    "Manual 10X_EN/RC-101-Android.psd": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2189046,
+      "exportedPath": "Manual 10X_EN/RC-101-Android.psd",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Troubleshooting.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4989,
+      "exportedPath": "Manual 10X_EN/Troubleshooting.html",
+      "dependencies": []
+    },
+    "Manual 10X_EN/Turn ON and OFF.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4890,
+      "exportedPath": "Manual 10X_EN/Turn ON and OFF.html",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/autobrightness.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2322,
+      "exportedPath": "Windows_EN/ImagesPC/autobrightness.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/cicon_loadindex_ani.gif": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7657,
+      "exportedPath": "Windows_EN/ImagesPC/cicon_loadindex_ani.gif",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/cicon1.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 822,
+      "exportedPath": "Windows_EN/ImagesPC/cicon1.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/cicon2.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 278,
+      "exportedPath": "Windows_EN/ImagesPC/cicon2.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/cicon9.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 412,
+      "exportedPath": "Windows_EN/ImagesPC/cicon9.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/ciconidx.gif": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 862,
+      "exportedPath": "Windows_EN/ImagesPC/ciconidx.gif",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_addbookmark.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1239,
+      "exportedPath": "Windows_EN/ImagesPC/edit_addbookmark.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_append.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1299,
+      "exportedPath": "Windows_EN/ImagesPC/edit_append.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_cliphistory.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1301,
+      "exportedPath": "Windows_EN/ImagesPC/edit_cliphistory.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_condensed.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 447,
+      "exportedPath": "Windows_EN/ImagesPC/edit_condensed.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_condensedsetup.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1314,
+      "exportedPath": "Windows_EN/ImagesPC/edit_condensedsetup.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_copy.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1315,
+      "exportedPath": "Windows_EN/ImagesPC/edit_copy.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_cut.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1126,
+      "exportedPath": "Windows_EN/ImagesPC/edit_cut.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_cutappend.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1290,
+      "exportedPath": "Windows_EN/ImagesPC/edit_cutappend.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_nextsearch.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1290,
+      "exportedPath": "Windows_EN/ImagesPC/edit_nextsearch.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_paste.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1295,
+      "exportedPath": "Windows_EN/ImagesPC/edit_paste.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_replace.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1307,
+      "exportedPath": "Windows_EN/ImagesPC/edit_replace.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_retrievebookmark.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1232,
+      "exportedPath": "Windows_EN/ImagesPC/edit_retrievebookmark.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_search.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1286,
+      "exportedPath": "Windows_EN/ImagesPC/edit_search.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_searchresults.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1163,
+      "exportedPath": "Windows_EN/ImagesPC/edit_searchresults.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/edit_undo.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1147,
+      "exportedPath": "Windows_EN/ImagesPC/edit_undo.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/hmfile_hash_86fa007e.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 883,
+      "exportedPath": "Windows_EN/ImagesPC/hmfile_hash_86fa007e.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/isotope_excel.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 3289,
+      "exportedPath": "Windows_EN/ImagesPC/isotope_excel.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/isotope_title.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9381,
+      "exportedPath": "Windows_EN/ImagesPC/isotope_title.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/localmenucurgraphs.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6828,
+      "exportedPath": "Windows_EN/ImagesPC/localmenucurgraphs.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/localmenulog.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12009,
+      "exportedPath": "Windows_EN/ImagesPC/localmenulog.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/localmenuwatches.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9953,
+      "exportedPath": "Windows_EN/ImagesPC/localmenuwatches.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logcsv.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9275,
+      "exportedPath": "Windows_EN/ImagesPC/logcsv.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logcsvconfig.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 32183,
+      "exportedPath": "Windows_EN/ImagesPC/logcsvconfig.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logdelete.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9228,
+      "exportedPath": "Windows_EN/ImagesPC/logdelete.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logdeleteold.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 17763,
+      "exportedPath": "Windows_EN/ImagesPC/logdeleteold.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logeditcomment.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 64044,
+      "exportedPath": "Windows_EN/ImagesPC/logeditcomment.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfilter.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 14427,
+      "exportedPath": "Windows_EN/ImagesPC/logfilter.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfilterargument.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11624,
+      "exportedPath": "Windows_EN/ImagesPC/logfilterargument.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfiltercondcond.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 12631,
+      "exportedPath": "Windows_EN/ImagesPC/logfiltercondcond.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfiltercondexample.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 20581,
+      "exportedPath": "Windows_EN/ImagesPC/logfiltercondexample.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfiltercondition.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11056,
+      "exportedPath": "Windows_EN/ImagesPC/logfiltercondition.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfiltercondlist.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 14724,
+      "exportedPath": "Windows_EN/ImagesPC/logfiltercondlist.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfilterexample.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 70801,
+      "exportedPath": "Windows_EN/ImagesPC/logfilterexample.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logfilteronecond.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 15474,
+      "exportedPath": "Windows_EN/ImagesPC/logfilteronecond.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/loghtml.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7317,
+      "exportedPath": "Windows_EN/ImagesPC/loghtml.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/loghtmlexample.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 161055,
+      "exportedPath": "Windows_EN/ImagesPC/loghtmlexample.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logopenfilter.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6321,
+      "exportedPath": "Windows_EN/ImagesPC/logopenfilter.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logopensearch.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8581,
+      "exportedPath": "Windows_EN/ImagesPC/logopensearch.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logsearch.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 22505,
+      "exportedPath": "Windows_EN/ImagesPC/logsearch.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logsearchhighlight.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 116391,
+      "exportedPath": "Windows_EN/ImagesPC/logsearchhighlight.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logsearchselect.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 108596,
+      "exportedPath": "Windows_EN/ImagesPC/logsearchselect.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/logsettings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 30879,
+      "exportedPath": "Windows_EN/ImagesPC/logsettings.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/mainwintoolbar.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 9237,
+      "exportedPath": "Windows_EN/ImagesPC/mainwintoolbar.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/misc_lasteditcontext.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1285,
+      "exportedPath": "Windows_EN/ImagesPC/misc_lasteditcontext.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/openlog.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11446,
+      "exportedPath": "Windows_EN/ImagesPC/openlog.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/openlogsettings.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 11721,
+      "exportedPath": "Windows_EN/ImagesPC/openlogsettings.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/openspectrogram.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8429,
+      "exportedPath": "Windows_EN/ImagesPC/openspectrogram.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/openspectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6741,
+      "exportedPath": "Windows_EN/ImagesPC/openspectrum.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/quicksearchspectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 30440,
+      "exportedPath": "Windows_EN/ImagesPC/quicksearchspectrum.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/sp_amplifier.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7727,
+      "exportedPath": "Windows_EN/ImagesPC/sp_amplifier.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/spectrogram.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 41448,
+      "exportedPath": "Windows_EN/ImagesPC/spectrogram.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/spectrogramlib.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 23270,
+      "exportedPath": "Windows_EN/ImagesPC/spectrogramlib.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/spectrum_colors.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 44963,
+      "exportedPath": "Windows_EN/ImagesPC/spectrum_colors.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/spectrumlib.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 54771,
+      "exportedPath": "Windows_EN/ImagesPC/spectrumlib.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/wincurvalues.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 30902,
+      "exportedPath": "Windows_EN/ImagesPC/wincurvalues.png",
+      "dependencies": []
+    },
+    "Windows_EN/ImagesPC/winspectrum.png": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 31618,
+      "exportedPath": "Windows_EN/ImagesPC/winspectrum.png",
+      "dependencies": []
+    },
+    "Windows_EN/Info/1_Information.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 999,
+      "exportedPath": "Windows_EN/Info/1_Information.html",
+      "dependencies": []
+    },
+    "Windows_EN/Info/3.1 Information about the RadiaCode Database.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1657,
+      "exportedPath": "Windows_EN/Info/3.1 Information about the RadiaCode Database.html",
+      "dependencies": []
+    },
+    "Windows_EN/Info/3.2 Special Function Registers of RadiaCode-10X.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1508,
+      "exportedPath": "Windows_EN/Info/3.2 Special Function Registers of RadiaCode-10X.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2_Main_Menu_RadiaCode.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 434,
+      "exportedPath": "Windows_EN/Menu/2.2_Main_Menu_RadiaCode.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.1_File_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2982,
+      "exportedPath": "Windows_EN/Menu/2.2.1_File_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.2_Editor_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 35194,
+      "exportedPath": "Windows_EN/Menu/2.2.2_Editor_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.3_View_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 201,
+      "exportedPath": "Windows_EN/Menu/2.2.3_View_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.4_Configuration_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 34307,
+      "exportedPath": "Windows_EN/Menu/2.2.4_Configuration_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.5_Database_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1808,
+      "exportedPath": "Windows_EN/Menu/2.2.5_Database_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.6_Tools_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 2423,
+      "exportedPath": "Windows_EN/Menu/2.2.6_Tools_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.7_Scripts_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 231,
+      "exportedPath": "Windows_EN/Menu/2.2.7_Scripts_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.8_Windows_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1398,
+      "exportedPath": "Windows_EN/Menu/2.2.8_Windows_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Menu/2.2.9_Help_Menu.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 6528,
+      "exportedPath": "Windows_EN/Menu/2.2.9_Help_Menu.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1_Windows_Overview.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1228,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1_Windows_Overview.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.1_Event_Log_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 10545,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.1_Event_Log_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.2_Spectrum_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 14201,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.2_Spectrum_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.3_Spectrum_View_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 522,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.3_Spectrum_View_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.4_Spectrogram_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 8793,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.4_Spectrogram_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.5_Current_Values_Graph_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 4050,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.5_Current_Values_Graph_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.6 _Message console_window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 1188,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.6 _Message console_window.html",
+      "dependencies": []
+    },
+    "Windows_EN/Tubs_windows/2.1.7_Variables_Window.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7167,
+      "exportedPath": "Windows_EN/Tubs_windows/2.1.7_Variables_Window.html",
+      "dependencies": []
+    },
+    "Windows_EN/RC-10x_Windows.pdf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 5025838,
+      "exportedPath": "Windows_EN/RC-10x_Windows.pdf",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 54,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1729182412458,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
